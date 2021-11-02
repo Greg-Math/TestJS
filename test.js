@@ -1,5 +1,5 @@
 const nounourses = [{
-  colors: ["Tan", "Chocolate", "Black", "White"],
+  colors: ["Tan", "Chocolat", "Black", "White"],
   _id: "5be9c8541c9d440000665243",
   name: "Norbert",
   price: 2900,
